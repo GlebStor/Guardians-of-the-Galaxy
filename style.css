@@ -1,0 +1,45 @@
+body{
+    background: #000;
+    color: aqua;
+}
+.title {
+    color: yellow;
+    transition: 0.5s;
+}
+.title:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+.link {
+    transition: 0.5s;
+}
+.link:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.card__img {
+}
+.text {
+}
+.text__inside {
+    color: yellow;
+}
+.card {
+}
+.card-2__img {
+    width: 300px;
+}
+.card-3__img {
+    width: 300px;
+}
+.title-2 {
+    color: violet;
+    transition: 0.5s;
+}
+.title-2:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+.card-4__img {
+}
